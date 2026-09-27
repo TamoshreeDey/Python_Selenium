@@ -1,0 +1,8 @@
+{
+  "login": {
+    "email": "selenium_demo_user@yopmail.com",
+    "password": "Password123!"
+  },
+  "search_product": "iPhone",
+  "updated_quantity": "2"
+}
